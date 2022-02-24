@@ -64,14 +64,14 @@ a:hover {
 .skill-row-0 {
   width: 50%;
   margin: 80px auto 80px auto;
-  text-align: justify;
+  text-align: left;
   line-height: 2;
 }
 
 .skill-row-1 {
   width: 50%;
   margin: 80px auto 80px auto;
-  text-align: justify;
+  text-align: left;
   line-height: 2;
 }
 
@@ -125,6 +125,7 @@ a:hover {
 .contact-email {
   margin: 0 340px;
   line-height: 2;
+  margin: auto 18%;
   margin-bottom: 50px;
 }
 
